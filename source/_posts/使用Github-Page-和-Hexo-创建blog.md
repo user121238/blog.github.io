@@ -134,7 +134,7 @@ INFO  Hexo is running at http://localhost:4000/ . Press Ctrl+C to stop.
 1. 创建GitHub仓库
     
    在github上新建仓库，命名方式为  `username.github.io`
-   >需要注意的是，仓库名称必须为<username>开头，不然仓库不会识别。
+   >需要注意的是，仓库名称必须为`username`开头，不然仓库不会识别。
 
 2. 将本地文件push到仓库中
    > `public/`文件夹除外
