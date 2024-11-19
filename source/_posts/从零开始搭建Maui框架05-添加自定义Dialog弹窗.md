@@ -2,7 +2,7 @@
 title: 从零开始搭建Maui框架05-添加自定义Dialog弹窗
 date: 2024-11-19 14:20:32
 categories:
-	- 教程
+	- MAUI教程
 tags:
 	- C#
 	- .NET

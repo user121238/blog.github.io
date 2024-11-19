@@ -2,7 +2,7 @@
 title: 从零开始搭建Maui框架04-添加日志组件
 date: 2024-11-19 14:19:32
 categories:
-	- 教程
+	- MAUI教程
 tags:
 	- C#
 	- .NET

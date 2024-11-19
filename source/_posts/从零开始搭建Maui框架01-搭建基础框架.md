@@ -2,7 +2,7 @@
 title: 从零开始搭建Maui框架01-搭建基础框架
 date: 2024-11-19 14:12:32
 categories:
-	- 教程
+	- MAUI教程
 tags:
 	- C#
 	- .NET

@@ -2,7 +2,7 @@
 title: 从零开始搭建Maui框架07-多主题切换
 date: 2024-11-19 14:25:32
 categories:
-	- 教程
+	- MAUI教程
 tags:
 	- C#
 	- .NET

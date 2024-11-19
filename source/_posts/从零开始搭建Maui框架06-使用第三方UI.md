@@ -2,7 +2,7 @@
 title: 从零开始搭建Maui框架06-使用第三方UI
 date: 2024-11-19 14:22:32
 categories:
-	- 教程
+	- MAUI教程
 tags:
 	- C#
 	- .NET

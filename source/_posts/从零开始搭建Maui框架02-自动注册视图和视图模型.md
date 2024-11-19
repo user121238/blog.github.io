@@ -2,7 +2,7 @@
 title: 从零开始搭建Maui框架02-自动注册视图和视图模型
 date: 2024-11-19 14:15:32
 categories:
-	- 教程
+	- MAUI教程
 tags:
 	- C#
 	- .NET
