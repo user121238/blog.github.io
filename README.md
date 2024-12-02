@@ -1,2 +1,3 @@
 # blog.github.io
-my blog
+eric's blog
+[url](https://user121238.github.io/)
